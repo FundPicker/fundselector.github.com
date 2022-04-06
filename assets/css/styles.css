@@ -249,7 +249,7 @@ select {
 .header {
   background: #494d55;
   color: rgba(255, 255, 255, 0.85);
-  border-top: 5px solid #40babd;
+  border-top: 5px solid #011f41;
   padding: 30px 0;
 }
 
@@ -277,7 +277,7 @@ select {
 }
 
 .branding .text-highlight {
-  color: #40babd;
+  color: #011f41;
 }
 
 .body-green .branding .text-highlight {
