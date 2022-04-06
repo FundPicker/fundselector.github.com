@@ -1,5 +1,4 @@
 $(document).ready(function() {
-	
     /* ===== Stickyfill ===== */
     /* Ref: https://github.com/wilddeer/stickyfill */
     // Add browser support to position: sticky
