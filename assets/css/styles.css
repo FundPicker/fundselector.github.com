@@ -20,6 +20,10 @@ html, body {
   height: 100%;
 }
 
+.left{
+  
+}
+
 .page-wrapper {
   min-height: 100%;
   /* equal to footer height */
