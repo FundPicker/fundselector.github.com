@@ -9,8 +9,9 @@
 */
 /* ======= Base ======= */
 body {
-  font-family: 'Open Sans', arial, sans-serif;
-  color: #494d55;
+  /* font-family: 'Open Sans', arial, sans-serif; */
+  font-family: "PingFang SC";
+  color: #000000;/*#494d55*/
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
